@@ -1,29 +1,23 @@
-''Sparse Matrix Implementation''
+Sparse Matrix Implementation...
 
 This project implements a sparse matrix data structure in Python for the "Data Structures and Algorithms for Engineers" Programming Assignment 2. It uses a Coordinate List (COO) format for memory efficiency and supports addition, subtraction, and multiplication. Some matrix inputs may cause errors (e.g., dimension mismatches).
 
   
 
-Prerequisites
+Prerequisites...
 
 Git
 Python 3.6+
 VS Code
 
-Setup
+Setup...
 
-Clone Repository:
-
-In VS Code terminal (`Ctrl+``):cd /path/to/workspace
-git clone <repository-url> dsa
-code dsa
-
-
+Clone Repository
 
 
 Verify Files:
 
-Ensure dsa/sparse_matrix/code/src/sparse_matrix.py exists.
+Ensure dsa/sparse_matrix/code/sparse_matrix.py exists.
 Check sample_inputs/ for input files.
 Create outputs/:mkdir -p dsa/sparse_matrix/outputs
 
