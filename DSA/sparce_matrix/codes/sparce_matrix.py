@@ -1,4 +1,3 @@
-
 class SparseMatrix:
     def __init__(self, matrixFilePath=None, numRows=0, numCols=0):
         self.rows = numRows
