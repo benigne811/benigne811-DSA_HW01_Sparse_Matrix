@@ -1,6 +1,8 @@
 Sparse Matrix Implementation
 This project implements a sparse matrix data structure in Python for the "Data Structures and Algorithms for Engineers" Programming Assignment 2. It uses a Coordinate List (COO) format for memory efficiency and supports addition, subtraction, and multiplication. Some matrix inputs may cause errors (e.g., dimension mismatches).
 Repository Structure
+
+
 dsa/
 └── sparse_matrix/
     ├── code/
